@@ -7,15 +7,15 @@ package org.answerit.superstore.service.model;
  * @author monkey
  *
  */
-public class Catagory {
+public class Category {
 	private String id;
 	private String name;
 	
-	public Catagory() {
+	public Category() {
 		
 	}
 	
-	public Catagory(String id, String name) {
+	public Category(String id, String name) {
 		this.id = id;
 		this.name = name;
 	}
